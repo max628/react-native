@@ -1,4 +1,4 @@
-# MedSpa - React Native App
+# Booking Example - React Native App
 
 This app is the react native one using Firebase Realtime Database.
 
